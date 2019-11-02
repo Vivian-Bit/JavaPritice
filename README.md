@@ -1,0 +1,2 @@
+# JavaPritice
+Java pritice everyday!
